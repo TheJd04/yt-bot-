@@ -1,0 +1,7 @@
+.env
+client_secret.json
+token.json
+replied_ids.json
+draft_replies.txt
+__pycache__/
+*.pyc
